@@ -1,0 +1,8 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include<math.h>
+#include"globals.h"
+#include"randdp.h"
+#include"timers.h"
+#include"print_results.h"
+#include<openacc.h>
